@@ -5,5 +5,4 @@
 - MVVM Design Pattern
 - Swift
 - UIKit
-- Realm database
-- Disk
+- Persistence store
